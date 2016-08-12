@@ -7,3 +7,4 @@ test feature card 3
 git rebase origin/develop
 test feature card 5
 git push -r
+test feature card 6
